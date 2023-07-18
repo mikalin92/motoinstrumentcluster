@@ -1,0 +1,7 @@
+Respective open source licenses apply.
+
+BSD 3
+https://opensource.org/license/bsd-3-clause/
+
+GPL 2.0
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.html

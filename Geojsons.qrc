@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Kuopiopath.geojson</file>
+        <file>Kuopiopath2.geojson</file>
+    </qresource>
+</RCC>
